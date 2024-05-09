@@ -1,4 +1,4 @@
-# 🥾💻 Bernardus Kanayari
+# 🥾Bernardus Kanayari, Hi There Fellow Coders✋🏻
 
 ***'Code Venture (iOS Developer/Content Creator/Adventurer)'***
 
