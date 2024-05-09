@@ -6,3 +6,5 @@ I'm an iOS Developer with one year of experience and I have developed iOS App pr
 
 ---
 ### Tech Stacks
+<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+          
